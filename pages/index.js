@@ -17,12 +17,6 @@ export default function Home() {
         </p>
       </main>
 <figure>
-	<div class="case-study__overlay">
-
-
-	<video width="auto" height="auto" controls autoplay="1" loop muted>
-	<source src="/public/0001-0450.webm" type="video/webm" />
-	</video>
       <Footer />
     </div>
   )
