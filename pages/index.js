@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Website under construction." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          This website is currently under construction, updates will come up soon. 
         </p>
       </main>
 
