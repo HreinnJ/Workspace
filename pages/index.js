@@ -16,7 +16,16 @@ export default function Home() {
           This website is currently under construction, updates will come up soon. 
         </p>
       </main>
+<figure>
+	<div class="case-study__overlay">
 
+	</div>
+</figure>
+
+<div>
+	<video width="auto" height="auto" controls autoplay="1" loop muted>
+	<source src="images/0001-0450.webm" type="video/webm">
+	</video>
       <Footer />
     </div>
   )
