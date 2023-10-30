@@ -21,7 +21,7 @@ export default function Home() {
 
 
 	<video width="auto" height="auto" controls autoplay="1" loop muted>
-	<source src="Workspace/images/0001-0450.webm" type="video/webm">
+	<source src="/public/0001-0450.webm" type="video/webm" />
 	</video>
       <Footer />
     </div>
