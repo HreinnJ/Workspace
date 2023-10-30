@@ -16,7 +16,7 @@ export default function Home() {
           This website is currently under construction, updates will come up soon. 
         </p>
       </main>
-<figure>
+
       <Footer />
     </div>
   )
